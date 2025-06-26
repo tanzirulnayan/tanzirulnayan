@@ -46,7 +46,7 @@ Currently:
 ### 📬 Let’s Connect
 
 - 📧 **Email**: [tanzirulhaque7@gmail.com]  
-- 🔗 **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/thnayan)  
+- 🔗 **LinkedIn**: [linkedin.com/in/thnayan](https://linkedin.com/in/thnayan)  
 
 ---
 
