@@ -43,13 +43,6 @@ Currently:
 
 ---
 
-### 📈 GitHub Stats
-
-![Tanzirul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical)
-
----
-
 ### 📬 Let’s Connect
 
 - 📧 **Email**: [tanzirulhaque7@gmail.com]  
