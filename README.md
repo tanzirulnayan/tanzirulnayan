@@ -10,7 +10,7 @@
 I'm a full-stack product developer with 5+ years of experience in designing, building, and scaling apps used by thousands. I’ve worked across fintech, enterprise, and government platforms — always focusing on performance, UX, and clean architecture.
 
 Currently:
-- 🏛️ Building secure, high-performance systems under the **Aspire to Innovate (a2i)** programme in Bangladesh
+- 🏛️ Building secure, high-performance systems at Bangladesh Finance PLC.
 - 🔒 Architecting robust mobile + backend systems using **Flutter**, **BLoC**, **.NET Core 8**, and **SQL**
 - 🧪 Diving deeper into state management, testing, and architecture best practices
 - 🎓 Planning my next move into **AR/VR PhD research**
