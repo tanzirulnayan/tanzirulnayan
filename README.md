@@ -7,7 +7,7 @@
 
 ### 💼 About Me
 
-I'm a full-stack product developer with 5+ years of experience in designing, building, and scaling apps used by thousands. I’ve worked across fintech, enterprise, and government platforms — always focusing on performance, UX, and clean architecture.
+I'm a full-stack product developer with 6+ years of experience in designing, building, and scaling apps used by thousands. I’ve worked across fintech, enterprise, and government platforms — always focusing on performance, UX, and clean architecture.
 
 Currently:
 - 🏛️ Building secure, high-performance systems at Bangladesh Finance PLC.
