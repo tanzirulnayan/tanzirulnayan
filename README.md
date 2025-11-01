@@ -13,7 +13,7 @@ Currently:
 - 🏛️ Building secure, high-performance systems at Bangladesh Finance PLC.
 - 🔒 Architecting robust mobile + backend systems using **Flutter**, **BLoC**, **.NET Core 8**, and **SQL**
 - 🧪 Diving deeper into state management, testing, and architecture best practices
-- 🎓 Planning my next move into **AR/VR PhD research**
+- 🎓 Planning my next move into **AI/ML PhD research**
 
 ---
 
@@ -55,7 +55,7 @@ Currently:
 
 - Obsessed with clean UI and buttery-smooth UX — if it feels janky, it’s not shipping.
 - Can spend hours refactoring — code deserves to be elegant.
-- 🎮 Console gamer at heart. Assassin's Creed, Cyberpunk, and RDR2 are my escape.
+- 🎮 Console gamer at heart. Assassin's Creed, FC24, NFS, and Cyberpunk are my escape.
 
 ---
 
