@@ -39,7 +39,7 @@ Currently:
 - **peoplEBL Mobile App**  
   👥 The **first-ever bespoke HR banking app** in Bangladesh — built for Eastern Bank employees to manage everything from payroll to performance. Internal, secure, and enterprise-grade.
 
-- **Performance Management System (PMS)**
+- **Performance Management System (PMS)**  
   📊 Designed and developed a **full-cycle performance evaluation platform** supporting goal setting, KPI tracking, structured appraisal workflows, and multi-level review approvals.
   Engineered with scalable backend architecture, secure authentication mechanisms, and optimized database design to ensure enterprise-level reliability and data integrity.
 
